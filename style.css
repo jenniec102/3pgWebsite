@@ -136,3 +136,7 @@ p{
   color: white;
   font-weight: bold;
 }
+
+.conclusion a{
+  color: black; 
+}
